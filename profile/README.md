@@ -13,7 +13,7 @@ Open world, Action RPG, Exploration, Hunting, Non-Linear Story.
 
 Long before the humanity as we know it was born, other highly developed civilizations occupied the Universe. They are long gone and every reminder of their existence is hidden deep in the darkness of space.
 
-Year 4532, II - Era. As the strongest wills of the mankind breeched the border of impossibility, a truly humane society, which people of the past would call utopia, has been built. With the explosion in scientific progress, the barrier of the speed of light has been surpassed and humanity has taken it's place among the stars. Now it is rapidly colonizing and exploring surrounding galaxies.
+Year 4532, II - Era. As the strongest wills of the mankind breeched the border of impossibility, a truly humane society, which people of the past would call utopia, has been built. With the explosion in scientific progress, the barrier of the speed of light has been surpassed, and humanity has taken it's place among the stars. Now it is rapidly colonizing and exploring surrounding galaxies.
 
 ---
 #### Story
