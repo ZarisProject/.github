@@ -2,6 +2,8 @@
 
 Zaris is an open-world action-adventure-exploration game, developed by a solo indie dev AkarFire (aka K Scarlet).
 
+**Game Engine:** *Unreal Engine 5*
+
 ---
 #### Genres:
 Open world, Action RPG, Exploration, Hunting, Non-Linear Story.
